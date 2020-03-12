@@ -1,14 +1,18 @@
-#Flutter Workshop
+Flutter Workshop
+================
 
-##Constrain
+Constrain
+---------
  * Basic knowkedge in OOP, Java, Node.js or JavaScript
 
-##00 Overview
+00 Overview
+---------
  * Why Flutter ?
  * Feature 
  * Architecture
 
-##01 Flutter tools
+01 Flutter tools
+---------
  * The basic toos for Flutter developer
    * Flutter cli
 	 * Flutter verson and channel for change your flutter version for downgrade or updrage
@@ -20,12 +24,14 @@
  * Create your 1st app HelloWorld via flutter cli
  * Project structure (platform folders, pubspec structure)
 
-##02 Stateless Widget and Statefull Widget
+02 Stateless Widget and Statefull Widget
+---------
  * Stateless Widget
  * Statefull Widget
  * Let's check a cycle of state, setstate to redraw a widget
 
-##03 Layout and widgets
+03 Layout and widgets
+---------
  * UI Design tools eg: Sketch, Adobe XD, Supernova
  * Basic widget (decoration and alignment)
 	 * Scaffold
@@ -55,7 +61,8 @@
 		 * GridView count
   * Form + Text form field
 
-#04 Form widgets
+04 Form widgets
+---------
  * Let's make a UI for login page
  * Let's make a UI for register page
  * Let's make a UI for lost password/reset password page
@@ -64,7 +71,8 @@
  * Use route to pre-defind path
  * Intent with return result
 
-#05 HTTP Request
+05 HTTP Request
+---------
  * Basic HTTP request, call REST API via insomnia, postman or curl
  * Dart plugin eg: http, dio
  * Let's do a API call via code (example API)
@@ -73,14 +81,21 @@
  * Let's code a backend (optional maybe use strapi or some backend tool to create once)
  * Write your own code to connect your own API
 
-#06 Persistent storage
+06 Persistent storage
+---------
  * SQLite
  * Share preference
 
-#07 Firebase - Firebase Auth
-#08 Firebase - Firestore
-#09 Firebase - Firebase Cloud Storage
-#10 Firebase - Firebase Cloud Massaging and notification
-#11 Firebase - Firebase Cloud Function
-#12 Prepare for release for PlayStore and AppStore (optional)
+07 Firebase - Firebase Auth
+---------
+08 Firebase - Firestore
+---------
+09 Firebase - Firebase Cloud Storage
+---------
+10 Firebase - Firebase Cloud Massaging and notification
+---------
+11 Firebase - Firebase Cloud Function
+---------
+12 Prepare for release for PlayStore and AppStore (optional)
+---------
 
