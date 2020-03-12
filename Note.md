@@ -8,7 +8,7 @@ Constrain
 00 Overview
 ---------
  * Why Flutter ?
- * Feature 
+ * Feature
  * Architecture
 
 01 Flutter tools
@@ -23,6 +23,9 @@ Constrain
  * Plugins for VSCode (Flutter, Flutter Intl and etc)
  * Create your 1st app HelloWorld via flutter cli
  * Project structure (platform folders, pubspec structure)
+ * Debug
+ * Git (option)
+ * Codemagic (option)
 
 02 Stateless Widget and Statefull Widget
 ---------
@@ -36,6 +39,7 @@ Constrain
  * Basic widget (decoration and alignment)
 	 * Scaffold
 	 * SafeArea
+	 * Theme
 	 * AppBar
    * Container
 	 * Column
@@ -47,10 +51,10 @@ Constrain
 	 * Avatar 
 	 * Icon
 	 * Button
-	   * Raise button
-		 * Material Button
-		 * Icon buttom
-		 * Floating Action Button (FAB)
+     * Raise button
+     * Material Button
+     * Icon buttom
+     * Floating Action Button (FAB)
 	 * Stack
 	 * Card view
 	 * List view
@@ -59,17 +63,19 @@ Constrain
 	 * Grid view
 	   * GridView builder
 		 * GridView count
-  * Form + Text form field
+ * Navigation drawer
+ * Bottom navigation
+ * Basic navigation (push, pop)
+ * Use route to pre-defind path
+ * Intent with result return
 
 04 Form widgets
 ---------
+ * Form + Text form field
  * Let's make a UI for login page
  * Let's make a UI for register page
  * Let's make a UI for lost password/reset password page
  * Add form validation
- * Basic navigation (push, pop)
- * Use route to pre-defind path
- * Intent with return result
 
 05 HTTP Request
 ---------
@@ -78,7 +84,7 @@ Constrain
  * Let's do a API call via code (example API)
  * JSON parser, Model and some useful tools eg: JSON2Dart class, JSON lint
  * Get a data to show in Text, ListView, GridView and etc
- * Let's code a backend (optional maybe use strapi or some backend tool to create once)
+ * Let's code a backend (maybe use strapi or some backend tool to create once)
  * Write your own code to connect your own API
 
 06 Persistent storage
@@ -94,8 +100,7 @@ Constrain
 ---------
 10 Firebase - Firebase Cloud Massaging and notification
 ---------
-11 Firebase - Firebase Cloud Function
+11 Firebase - Firebase Cloud Function (option)
 ---------
-12 Prepare for release for PlayStore and AppStore (optional)
+12 Prepare for release for PlayStore and AppStore (option)
 ---------
-
