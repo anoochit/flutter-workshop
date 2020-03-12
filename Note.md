@@ -116,5 +116,8 @@ Constrain
 12 Firebase - Firebase Cloud Function (option)
 ---------
 
-13 Prepare for release for PlayStore and AppStore (option)
+13 Localization
+---------
+
+14 Prepare for release for PlayStore and AppStore (option)
 ---------
