@@ -77,7 +77,12 @@ Constrain
  * Let's make a UI for lost password/reset password page
  * Add form validation
 
-05 HTTP Request
+05 Persistent storage
+---------
+ * SQLite
+ * Share preference
+
+06 Connecting to the network
 ---------
  * Basic HTTP request, call REST API via insomnia, postman or curl
  * Dart plugin eg: http, dio
@@ -87,20 +92,27 @@ Constrain
  * Let's code a backend (maybe use strapi or some backend tool to create once)
  * Write your own code to connect your own API
 
-06 Persistent storage
+07 Map
 ---------
- * SQLite
- * Share preference
+ * Google Map
+ * Location API
+ * Place API aka geo query
+ * Geofencing
 
-07 Firebase - Firebase Auth
+08 Firebase - Firebase Auth
 ---------
-08 Firebase - Firestore
+
+09 Firebase - Firestore
 ---------
-09 Firebase - Firebase Cloud Storage
+
+10 Firebase - Firebase Cloud Storage
 ---------
-10 Firebase - Firebase Cloud Massaging and notification
+
+11 Firebase - Firebase Cloud Massaging and notification
 ---------
-11 Firebase - Firebase Cloud Function (option)
+
+12 Firebase - Firebase Cloud Function (option)
 ---------
-12 Prepare for release for PlayStore and AppStore (option)
+
+13 Prepare for release for PlayStore and AppStore (option)
 ---------
